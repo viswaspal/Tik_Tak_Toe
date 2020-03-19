@@ -1,0 +1,15 @@
+td{
+	height:100px;
+	width:100px;
+	border-color:red;
+	border-style:solid;
+	border-width:3px;
+	background-color:blue;
+	color:yellow;
+	font-size:71px;
+	text-align:center;
+}
+#b{
+	color:red;
+	background-color:yellow;
+}
